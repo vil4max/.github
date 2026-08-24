@@ -1,67 +1,54 @@
-# vil4engineering
+# vil4labs
 
-**vil4engineering** is a long-term engineering organization dedicated to learning, building, and teaching.
+**vil4labs** is the home of [univer](https://github.com/vil4labs/univer) — a living Engineering University built for two generations of engineers.
 
-The organization was created with a simple mission:
+Its purpose is to turn engineering knowledge into material that can be understood, demonstrated, practised, and reused.
 
-> Help two generations become professional engineers.
+## Engineering University
 
-It serves as a home for engineering projects, research, laboratories, educational materials, and open-source software.
+[univer](https://github.com/vil4labs/univer) brings together:
 
-## Vision
+- computer science and mathematics foundations;
+- software engineering;
+- Swift and Apple platforms;
+- artificial intelligence;
+- software architecture and system design;
+- practical laboratories and executable examples;
+- engineering leadership and career development.
 
-Build a living engineering ecosystem where knowledge is not only collected but also:
+The University connects first-principles explanations with real engineering practice. Knowledge from projects, experiments, and professional experience becomes reusable educational material rather than a collection of disconnected notes.
 
-- understood;
-- practiced;
-- documented;
-- shared;
-- continuously improved.
-
-## Focus Areas
-
-- Software Engineering
-- Computer Science
-- Swift & Apple Platforms
-- Artificial Intelligence
-- Software Architecture
-- Engineering Labs
-- Career Development
-
-## Principles
-
-- Learn from first principles.
-- Build real software.
-- Prefer evidence over opinions.
-- Document knowledge that can be reused.
-- Teach to deepen understanding.
-- Continuously improve engineering craftsmanship.
-
-## Flagship curriculum
-
-The curriculum and campus OS live in **[univer](https://github.com/vil4engineering/univer)** — a long-term educational project designed to help both an experienced engineer and a future engineer grow through practical learning, real projects, and continuous curiosity.
+## Learning model
 
 Knowledge is considered complete only when it can be:
 
 1. Explained.
 2. Demonstrated.
-3. Practiced.
+3. Practised.
 4. Reused.
 
-| | |
-|--|--|
-| **Curriculum repo** | [vil4engineering/univer](https://github.com/vil4engineering/univer) |
-| **Site** | [vil4engineering.github.io/univer](https://vil4engineering.github.io/univer/) |
-| **Discussions** | [Ask / Ideas / Labs](https://github.com/vil4engineering/univer/discussions) |
-| **Project board** | [Board](https://github.com/orgs/vil4engineering/projects/1) |
+The same source of truth supports two learning paths:
 
-## Repositories
+- an experienced engineer developing deeper technical, architectural, AI, and leadership expertise;
+- a beginner learning through curiosity, clear explanations, and practical experiments.
 
-Every repository exists for at least one purpose:
+## Principles
 
-- Become a better engineer.
-- Help someone else become one.
-- Build something useful.
+- Start from first principles.
+- Connect theory with real engineering practice.
+- Prefer evidence over unsupported claims.
+- Explain mechanisms, history, and trade-offs.
+- Build practical and executable learning material.
+- Teach to deepen understanding.
+- Continuously improve the shared body of knowledge.
+
+## Explore
+
+| Resource | Link |
+|---|---|
+| Engineering University | [github.com/vil4labs/univer](https://github.com/vil4labs/univer) |
+| University site | [vil4labs.github.io/univer](https://vil4labs.github.io/univer/) |
+| Questions, ideas, and discussions | [univer discussions](https://github.com/vil4labs/univer/discussions) |
 
 ---
 

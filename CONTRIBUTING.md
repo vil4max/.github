@@ -1,8 +1,8 @@
 # Contributing
 
-**vil4engineering** is a long-term engineering organization for learning, building, and teaching across two generations.
+**vil4labs** is the home of a living Engineering University for two generations.
 
-Curriculum and campus docs live in [`univer`](https://github.com/vil4engineering/univer).
+Curriculum and campus docs live in [`univer`](https://github.com/vil4labs/univer).
 
 ## Before you open a PR
 
@@ -30,5 +30,5 @@ Work should help at least one of:
 ## Language
 
 - Public product / org README: English is fine.
-- Curriculum prose in `univer`: Russian primary + English technical terms (see [`campus/LANGUAGE.md`](https://github.com/vil4engineering/univer/blob/main/campus/LANGUAGE.md)).
+- Curriculum prose in `univer`: Russian primary + English technical terms (see [`campus/LANGUAGE.md`](https://github.com/vil4labs/univer/blob/main/campus/LANGUAGE.md)).
 - Code identifiers and API names: English as-is.

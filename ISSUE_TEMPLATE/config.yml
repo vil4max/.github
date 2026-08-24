@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discussions
-    url: https://github.com/vil4engineering/univer/discussions
+    url: https://github.com/vil4labs/univer/discussions
     about: Questions, ideas, labs, book club, WWDC, AI, career craft, teaching.
   - name: Curriculum site
-    url: https://vil4engineering.github.io/univer/
+    url: https://vil4labs.github.io/univer/
     about: Curriculum, paths, and documentation portal.
